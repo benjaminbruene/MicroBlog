@@ -1,7 +1,10 @@
+using MicroBlog.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddSingleton<PostStore>(); //JSON backed store of blog posts
 
 var app = builder.Build();
 

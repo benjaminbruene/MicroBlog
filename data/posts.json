@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "My new blog post",
+    "body": "This is my first blog post!",
+    "createdUtc": "2026-09-24T00:26:30.8569629Z"
+  },
+  {
+    "id": 2,
+    "title": "Learning ASP.NET Core",
+    "body": "Today I practiced building a simple blog with ASP.NET Core Razor Pages. I learned how pages, models, and forms work together. I also practiced saving data and displaying it on different pages.",
+    "createdUtc": "2026-09-24T00:42:45.9104781Z"
+  },
+  {
+    "id": 3,
+    "title": "Why I Like Working With Computers",
+    "body": "I enjoy working with computers because there is always something new to learn. Whether I am programming, fixing a problem, or setting up a system, each project gives me a chance to improve my skills.",
+    "createdUtc": "2026-09-24T00:44:05.3349312Z"
+  }
+]
